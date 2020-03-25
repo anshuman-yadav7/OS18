@@ -106,4 +106,4 @@ printf("P%d\t%d\t%d\t%d\t%d\n",p_list[i].p_no,p_list[i].arrival_t,p_list[i].ct,p
  }
 printf("Average Turn around Time: %f\t\n\n",avg_taround_time);
 printf("Average Waiting Time :\t %f\t\n",avg_w_t);
-}
+}   //end of program
